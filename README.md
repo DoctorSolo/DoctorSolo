@@ -1,10 +1,10 @@
-<h3>I'm @DoutorSolo 🤖</h3>
+<h3 align=center> I'm @DoutorSolo 🤖 </h3>
 
-I'm computer engineering college 💻
+<h align=center> I'm computer engineering college 💻 </h>
 
 ![image](https://github.com/DoutorSolo/DoutorSolo/assets/132822901/ec819b38-d12c-4c49-9ab3-d48ef3f4a6a7)
 
-*Doutor_Solo*
+*Doutor_Solo* 
 
 <hr>
 
