@@ -33,7 +33,8 @@
 <h3 align=center> My favorite games </h3>
 <div align=center>
   
-![![genshin impact](https://github.com/DoutorSolo/DoutorSolo/assets/132822901/adaa3a0c-6893-4ea1-8c97-83d8a18d0049)(https://www.hoyolab.com/accountCenter/postList?id=299038211]
+[![genshin impact](https://github.com/DoutorSolo/DoutorSolo/assets/132822901/adaa3a0c-6893-4ea1-8c97-83d8a18d0049)](https://www.hoyolab.com/accountCenter/postList?id=299038211)
+[![Minecraft image](https://github.com/DoutorSolo/DoutorSolo/assets/132822901/e9919951-ce5e-4f49-ab45-ed0c88fceea2)](https://account.xbox.com/pt-br/profile?gamertag=Doutor%20Solo)
 
 </div>
 
