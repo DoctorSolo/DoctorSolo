@@ -27,3 +27,14 @@
 <img src = "https://media.discordapp.net/attachments/539880235257298966/1180530727431966811/3_Sem_Titulo_20231202122700_agora_vai.png?ex=657dc1ea&is=656b4cea&hm=61090bba42a4173d013778d600399a2a3ba295ac688c2fbb87070f12c3ad33ac&=&format=webp&quality=lossless&width=500&height=500" height="90">
 
 </div>
+
+<hr>
+
+<h3 align=center> My favorite games </h3>
+<div align=center>
+  
+![![genshin impact](https://github.com/DoutorSolo/DoutorSolo/assets/132822901/adaa3a0c-6893-4ea1-8c97-83d8a18d0049)(https://www.hoyolab.com/accountCenter/postList?id=299038211]
+
+</div>
+
+
