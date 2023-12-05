@@ -1,3 +1,5 @@
+![Leonardo Image](https://cdn.leonardo.ai/users/4ca3dbe5-820e-447b-aecc-ffb603540e48/generations/792a051e-dbe3-46c7-bd43-a75b400e46a6/AlbedoBase_XL_a_beautiful_white_kitten_playing_in_the_snow_pin_0.jpg)
+
 <h2 align=center> I'm @DoutorSolo 🤖 </h2>
 
 <p align=center> I'm computer engineering college 💻 </p>
