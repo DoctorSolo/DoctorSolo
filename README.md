@@ -16,6 +16,22 @@
 <hr>
 
 <p align=center>
+	<h3>	Take a look at same of my projects	</h3>
+</p>
+
+<div align=center>
+	<a href = "" >
+		<img src = "https://freefilehippo.com/wp-content/uploads/2020/11/gamemaker-studio-2-logo.png"              	alt="gamemakerstudio	icon" 	height="40" />
+	</a>
+	<a href = "" >
+		<img src = "https://github.com/DoutorSolo/DoutorSolo/assets/132822901/0aacb41d-d132-4558-ad5b-ecb64a438e34"	alt="Blender		icon"	height="40" />
+	</a>
+</div>
+
+
+<hr>
+
+<p align=center>
 	<h3>	Follw Me Too	</h3>
 </p>
 
@@ -59,8 +75,8 @@
 		<h3 align=top>Creative</h3>
 			<div align=center>
   
-  <img src = "https://github.com/DoutorSolo/DoutorSolo/assets/132822901/0aacb41d-d132-4558-ad5b-ecb64a438e34" alt="Blender icon" 			height="40" /> <br><br>
-  <img src = "https://freefilehippo.com/wp-content/uploads/2020/11/gamemaker-studio-2-logo.png"               alt="gamemakerstudio logo" 	height="40" />
+  
+  
 
 </div></td>
     <td>
