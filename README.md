@@ -23,7 +23,7 @@
 	<a href = "" >
 		<img src = "https://freefilehippo.com/wp-content/uploads/2020/11/gamemaker-studio-2-logo.png"              	alt="gamemakerstudio	icon" 	height="40" />
 	</a>
-	<a href = "https://github.com/DoutorSolo/DoutorSolo/blob/main/Blender%20projects" >
+	<a href = "https://github.com/DoutorSolo/DoutorSolo/blob/main/Blender%20projects" title="Blender" target="_blank">
 		<img src = "https://github.com/DoutorSolo/DoutorSolo/assets/132822901/0aacb41d-d132-4558-ad5b-ecb64a438e34"	alt="Blender		icon"	height="40" />
 	</a>
 </div>
