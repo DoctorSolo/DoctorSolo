@@ -28,7 +28,7 @@
 </p>
 
 <div align="center" style = "display: inline_block">
-	<a title="Discord" 	target="_blank" 						href 	= "https://discord.com/channels/989166677390426132/1180929467464556564" >
+	<a title="Discord" 	target="_blank" 						href 	= "https://discord.com/channels/@me/534808726570270731" >
                 <img alt="Discord	Profile"	height="40" width="40" align="center" 	src 	= "https://github.com/DoutorSolo/DoutorSolo/assets/132822901/ec819b38-d12c-4c49-9ab3-d48ef3f4a6a7"/> 
 	</a>
 	<a title="Leonardo.AI"	target="blank"							href 	= "https://app.leonardo.ai/profile/Doutor_Solo">
