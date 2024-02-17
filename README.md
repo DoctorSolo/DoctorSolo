@@ -31,6 +31,9 @@
 	<a title="Discord" 	target="_blank" 						href 	= "https://discord.com/channels/@me/534808726570270731" >
                 <img alt="Discord	Profile"	height="40" width="40" align="center" 	src 	= "https://github.com/DoutorSolo/DoutorSolo/assets/132822901/ec819b38-d12c-4c49-9ab3-d48ef3f4a6a7"/> 
 	</a>
+	<a title="Itch.io" 	target="_blank" 						href 	= "https://doutor-solo.itch.io" >
+                <img alt="Itch.io	Profile"	height="40" width="40" align="center" 	src 	= "https://cdn2.steamgriddb.com/icon_thumb/8b33ab221257b074d1d967042ad1d9d0.png"/> 
+	</a>
 	<a title="Leonardo.AI"	target="blank"							href 	= "https://app.leonardo.ai/profile/Doutor_Solo">
       		<img alt="Leonardo.AI 	Profile"	height="40" width="40" align="center"	src 	= "https://media.discordapp.net/attachments/539880235257298966/1180530727431966811/3_Sem_Titulo_20231202122700_agora_vai.png?        ex=657dc1ea&is=656b4cea&hm=61090bba42a4173d013778d600399a2a3ba295ac688c2fbb87070f12c3ad33ac&=&format=webp&quality=lossless&width=500&height=500"/> 
 	</a>
