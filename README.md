@@ -28,8 +28,8 @@
 </p>
 
 <div align="center" style = "display: inline_block">
-	<a title="intagram"	target="_blank"							href	= "" >
-		<img alt="Intagram	Profile"	height="40" width="40" align="center"	src	= "https://cdn-icons-png.flaticon.com/512/3621/3621435.png"/>
+	<a title="intagram"	target="_blank"							href	= "https://www.instagram.com/miguel_e303/" >
+		<img alt="Intagram	Profile"	height="40" width="40" align="center"	src	= "https://w7.pngwing.com/pngs/16/46/png-transparent-made-in-kings-heath-instagram-facebook-female-graphy-instagram-logo-instagram-icon-text-trademark-magenta-thumbnail.png"/>
 	</a>
 	<a title="Discord" 	target="_blank" 						href 	= "https://discord.com/channels/@me/534808726570270731" >
                 <img alt="Discord	Profile"	height="40" width="40" align="center" 	src 	= "https://github.com/DoutorSolo/DoutorSolo/assets/132822901/ec819b38-d12c-4c49-9ab3-d48ef3f4a6a7"/> 
