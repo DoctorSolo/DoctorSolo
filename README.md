@@ -2,7 +2,7 @@
 
 
 
-<img alt="background"	align="center" 	src = "https://cdn.leonardo.ai/users/4ca3dbe5-820e-447b-aecc-ffb603540e48/generations/792a051e-dbe3-46c7-bd43-a75b400e46a6/AlbedoBase_XL_a_beautiful_white_kitten_playing_in_the_snow_pin_0.jpg" />
+<img alt="background"	align="center" 	src = "https://cdn.leonardo.ai/users/4ca3dbe5-820e-447b-aecc-ffb603540e48/generations/d2af487c-a848-457b-bea1-f48bab31117c/variations/UniversalUpscaler_d2af487c-a848-457b-bea1-f48bab31117c.jpg" />
 
 ##
 
@@ -38,8 +38,9 @@
                 <img alt="Itch.io	Profile"	height="40" width="40" align="center" 	src 	= "https://cdn2.steamgriddb.com/icon_thumb/8b33ab221257b074d1d967042ad1d9d0.png"/> 
 	</a>
 	<a title="Leonardo.AI"	target="blank"							href 	= "https://app.leonardo.ai/profile/Doutor_Solo">
-      		<img alt="Leonardo.AI 	Profile"	height="40" width="40" align="center"	src 	= "https://media.discordapp.net/attachments/539880235257298966/1180530727431966811/3_Sem_Titulo_20231202122700_agora_vai.png?        ex=657dc1ea&is=656b4cea&hm=61090bba42a4173d013778d600399a2a3ba295ac688c2fbb87070f12c3ad33ac&=&format=webp&quality=lossless&width=500&height=500"/> 
+      		<img alt="Leonardo.AI 	Profile"	height="40" width="40" align="center"	src 	= "https://media.licdn.com/dms/image/D4D12AQFMgqLxY9d83g/article-cover_image-shrink_600_2000/0/1701541946495?e=2147483647&v=beta&t=dTccd_Yui_jYqAYnLCDOrqbElOPvlJST6T1a-r6V8Cw"/> 
 	</a>
+	<!--
 	<a title="Steam"	target="_blank"							href	= "https://steamcommunity.com/profiles/76561199479132119/" >
                 <img alt="Steam		Profile"	height="40" width="40" align="center"	src 	= "https://logosdownload.com/logo/Steam-Icon-logo-big.png"/> 
 	</a>
@@ -49,45 +50,5 @@
 	<a title="Hoyolab"	target="_balnk"							href 	= "https://www.hoyolab.com/accountCenter/postList?id=299038211" >
                 <img alt="hoyolab 	Profile" 	height="60" width="60" align="center" 	src 	= "https://cdn141.picsart.com/2b30e4c1-ab13-4934-99e0-1f947119fefd/374756652007211.png"/>
 	</a>
+	-->
 </div>
-
-
-
-
-
-
-
-
-
-
-
-<!--
-
-
-
-
-</div>
-</td>
-    <td>
-		<h3 align=top>Creative</h3>
-			<div align=center>
-  
-  
-  
-
-</div></td>
-    <td>
-		<h3 align=center>Drawing and editing</h3>
-			<div align=center>
-  
-  <img src = "https://lh3.googleusercontent.com/EWyXSIExk317d5TxiWgA8A3mVRBiEdIpX0E7Yu3ghBOZDhlar34ewJdeVuiD40s1uok=w300"                        height="50" alt="Ibis paint X" />
-  <img src = "https://image.winudf.com/v2/image1/Y29tLmxlbW9uLmx2b3ZlcnNlYXNfaWNvbl8xNjYwMjE4OTc4XzA1NA/icon.png?w=80&fakeurl=1"                 height="50">
-  
-
-</div>
-	</td>
-  </tr>
-</table>
-
-
-
