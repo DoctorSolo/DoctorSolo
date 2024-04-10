@@ -38,7 +38,7 @@
                 <img alt="Itch.io	Profile"	height="40" width="40" align="center" 	src 	= "https://cdn2.steamgriddb.com/icon_thumb/8b33ab221257b074d1d967042ad1d9d0.png"/> 
 	</a>
 	<a title="Leonardo.AI"	target="blank"							href 	= "https://app.leonardo.ai/profile/Doutor_Solo">
-      		<img alt="Leonardo.AI 	Profile"	height="40" width="40" align="center"	src 	= "https://media.licdn.com/dms/image/D4D12AQFMgqLxY9d83g/article-cover_image-shrink_600_2000/0/1701541946495?e=2147483647&v=beta&t=dTccd_Yui_jYqAYnLCDOrqbElOPvlJST6T1a-r6V8Cw"/> 
+      		<img alt="Leonardo.AI 	Profile"	height="40" width="100" align="center"	src 	= "https://media.licdn.com/dms/image/D4D12AQFMgqLxY9d83g/article-cover_image-shrink_600_2000/0/1701541946495?e=2147483647&v=beta&t=dTccd_Yui_jYqAYnLCDOrqbElOPvlJST6T1a-r6V8Cw"/> 
 	</a>
 	<!--
 	<a title="Steam"	target="_blank"							href	= "https://steamcommunity.com/profiles/76561199479132119/" >
