@@ -18,7 +18,7 @@
 <div	align="center"	style = "display: inline_block">
 		<img title="Game Maker" 	alt="Game Maker		Icon"	height="40" width="40" align="center" 	src = "https://freefilehippo.com/wp-content/uploads/2020/11/gamemaker-studio-2-logo.png" />
 		<img title="Blender" 		alt="Blender 		Icon"	height="40" width="40" align="center" 	src = "https://github.com/DoutorSolo/DoutorSolo/assets/132822901/0aacb41d-d132-4558-ad5b-ecb64a438e34" />
-		<img title="Leonardo.AI"	alt="Leonardo.AI	Icon" 	height="40" width="40" align="center"	src = "https://media.discordapp.net/attachments/539880235257298966/1180530727431966811/3_Sem_Titulo_20231202122700_agora_vai.png?        ex=657dc1ea&is=656b4cea&hm=61090bba42a4173d013778d600399a2a3ba295ac688c2fbb87070f12c3ad33ac&=&format=webp&quality=lossless&width=500&height=500" />
+		<img title="Leonardo.AI"	alt="Leonardo.AI	Icon" 	height="50" width="120" align="center"	src 	= "https://media.licdn.com/dms/image/D4D12AQFMgqLxY9d83g/article-cover_image-shrink_600_2000/0/1701541946495?e=2147483647&v=beta&t=dTccd_Yui_jYqAYnLCDOrqbElOPvlJST6T1a-r6V8Cw"/>
 </div>
 
 <hr>
@@ -38,7 +38,7 @@
                 <img alt="Itch.io	Profile"	height="40" width="40" align="center" 	src 	= "https://cdn2.steamgriddb.com/icon_thumb/8b33ab221257b074d1d967042ad1d9d0.png"/> 
 	</a>
 	<a title="Leonardo.AI"	target="blank"							href 	= "https://app.leonardo.ai/profile/Doutor_Solo">
-      		<img alt="Leonardo.AI 	Profile"	height="50" width="100" align="center"	src 	= "https://media.licdn.com/dms/image/D4D12AQFMgqLxY9d83g/article-cover_image-shrink_600_2000/0/1701541946495?e=2147483647&v=beta&t=dTccd_Yui_jYqAYnLCDOrqbElOPvlJST6T1a-r6V8Cw"/> 
+      		<img alt="Leonardo.AI 	Profile"	height="50" width="120" align="center"	src 	= "https://media.licdn.com/dms/image/D4D12AQFMgqLxY9d83g/article-cover_image-shrink_600_2000/0/1701541946495?e=2147483647&v=beta&t=dTccd_Yui_jYqAYnLCDOrqbElOPvlJST6T1a-r6V8Cw"/> 
 	</a>
 	<!--
 	<a title="Steam"	target="_blank"							href	= "https://steamcommunity.com/profiles/76561199479132119/" >
