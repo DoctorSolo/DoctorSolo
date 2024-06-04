@@ -10,7 +10,7 @@
 
 <hr>
 
-<div title="about me" align="center">
+<div class="about me" align="center">
 	<p>
 		<h3> About me </h3>
 		💻 - I'm studying computer engineering
