@@ -38,7 +38,7 @@
 			<h3 align=center>	Follow Me Too	</h3>
 		</p>
 		<div align="center" style = "display: inline_block">
-			<a title="intagram"	target="_blank"							href	= "https://www.instagram.com/miguel_e303/" >
+			<a title="intagram"	target="_blank"							href	= "https://www.instagram.com/who_miguel_/" >
 				<img alt="Intagram	Profile"	height="40" width="40" align="center"	src	= "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png"/>
 			</a>
 			<a title="Discord" 	target="_blank" 						href 	= "https://discord.com/channels/@me/1242529222862573741" >
