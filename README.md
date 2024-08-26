@@ -29,9 +29,6 @@
 			<a title="Blender" target="_blank" href="https://www.blender.org">
 				<img title="Blender" alt="Blender Icon" height="40" width="40" align="center" src = "https://github.com/DoutorSolo/DoutorSolo/assets/132822901/0aacb41d-d132-4558-ad5b-ecb64a438e34" />
 			</a>
-			<!--
-				<img title="Leonardo.AI"	alt="Leonardo.AI	Icon" 	height="50" width="120" align="center"	src = "https://media.licdn.com/dms/image/D4D12AQFMgqLxY9d83g/article-cover_image-shrink_600_2000/0/1701541946495?e=2147483647&v=beta&t=dTccd_Yui_jYqAYnLCDOrqbElOPvlJST6T1a-r6V8Cw"/>
-			-->
 		</div>
 		<hr>
 		<p>
@@ -50,8 +47,3 @@
 		</div>
 	</div>
 </div>
-
-
-<!--<a title="Leonardo.AI"	target="blank"							href 	= "https://app.leonardo.ai/profile/Doutor_Solo">
-		      		<img alt="Leonardo.AI 	Profile"	height="50" width="120" align="center"	src 	= "https://media.licdn.com/dms/image/D4D12AQFMgqLxY9d83g/article-cover_image-shrink_600_2000/0/1701541946495?e=2147483647&v=beta&t=dTccd_Yui_jYqAYnLCDOrqbElOPvlJST6T1a-r6V8Cw"/> 
-			</a>-->
