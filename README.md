@@ -1,9 +1,9 @@
-## <p align=center>🤖 - Hello, my name is Miguel, also known as Dr. Solo lol </p> ##
+## <p align=center>🤖💬 - Hello, my name is Miguel, also known as Dr. Solo lol </p> ##
 ![background](https://cdn.leonardo.ai/users/4ca3dbe5-820e-447b-aecc-ffb603540e48/generations/d2af487c-a848-457b-bea1-f48bab31117c/variations/UniversalUpscaler_d2af487c-a848-457b-bea1-f48bab31117c.jpg) 
 
 <hr>
 
-- ### 🤖 - About me ###
+- ### 🤖💬 - About me ###
   * | 💻 | I'm studying computer engineering |
     |-----|-----------------------------------|
     | 🐍 | Python programmer |
@@ -13,7 +13,7 @@
 
 <br>
 
-- ### 🤖 - My knowledge ###
+- ### 🤖💬 - My knowledge ###
 
   * | Level | Content |
     |-------|---------|
@@ -22,13 +22,13 @@
 
 <br>
 
-- ### 🤖 - Some data about me ###
+- ### 🤖💬 - Some data about me ###
    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DoctorSolo&theme=midnight-purple&bg_color=000&border_color=A020F0&show_icons=true&icon_color=A020F0&title_color=A020F0&text_color=FFF) ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DoctorSolo&layout=compact&bg_color=000&border_color=A020F0&title_color=A020F0&text_color=FFF)
    [![GitHub Streak](https://streak-stats.demolab.com/?user=DoctorSolo&theme=midnight-purple&background=000&border=A020F0&dates=FFF)](https://git.io/streak-stats)
 
 <hr>
 
-<h3 align=center>	🤖 - Some software I use	</h3>
+<h3 align=center>	🤖💬 - Some software I use	</h3>
 
 <div	align="center"	style = "display: inline_block">
 			<a title="Godot" target="_blank" href="https://godotengine.org">
@@ -44,8 +44,8 @@
 
 <hr>
 
-- ### 🤖 - Follow me too ###
+- ### 🤖💬 - Follow me too ###
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/who_miguel_/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-e-a46b13279/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@.odoutor/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me/1242529222862573741)
 [![Itch.io](https://img.shields.io/badge/-Itch.io-000?style=for-the-badge&logo=itch.io&logoColor=%23E4405F)](https://doctor-solo.itch.io/)
