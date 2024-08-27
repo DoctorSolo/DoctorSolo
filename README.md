@@ -1,5 +1,8 @@
 ## <p align=center>🤖💬 - Hello, my name is Miguel, also known as Dr. Solo lol </p> ##
+<!--
 ![background](https://cdn.leonardo.ai/users/4ca3dbe5-820e-447b-aecc-ffb603540e48/generations/d2af487c-a848-457b-bea1-f48bab31117c/variations/UniversalUpscaler_d2af487c-a848-457b-bea1-f48bab31117c.jpg) 
+-->
+![back](https://cdn.discordapp.com/attachments/1204171199060648087/1204402716739375114/7_Sem_Titulo.png?ex=66ce6eb0&is=66cd1d30&hm=1f42fbf34a2392179598115abe90661ba2737822ae104c743902890e58b072e9&)
 
 <hr>
 
