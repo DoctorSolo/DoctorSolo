@@ -17,11 +17,13 @@
 
 ![back](https://media.discordapp.net/attachments/1278043424011845746/1278044347203457025/7_Sem_Titulo.png?ex=66cf5f0d&is=66ce0d8d&hm=f3498fa63687c0b9ca482e8308bbc020aa245eade95e9dfe9b6f9456e2772752&=&format=webp&quality=lossless&width=1439&height=600)
 
+<!--
 - ### 🤖💬 - About me ###
   * | 💻 | I'm studying computer engineering |
     |-----|-----------------------------------|
     | 👾 | Dev Indie |
     | 🤖 | Lover for bots |
+-->
 
 <hr>
 
