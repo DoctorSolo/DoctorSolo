@@ -44,10 +44,10 @@
 <div align=center>
 	<h3>🤖💬 - Some data about me</h3>
 	<img src = "https://github-readme-stats.vercel.app/api?username=DoctorSolo&theme=midnight-purple&bg_color=000&border_color=A020F0&show_icons=true&icon_color=A020F0&title_color=A020F0&text_color=FFF" />
-	<a href="https://git.io/streak-stats">
-		<img src = "https://streak-stats.demolab.com/?user=DoctorSolo&theme=midnight-purple&background=000&border=A020F0&dates=FFF" />
-	</a>
-	<img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DoctorSolo&layout=compact&bg_color=000&border_color=A020F0&title_color=A020F0&text_color=FFF" />
+	<a href="https://git.io/streak-stats"><img src = "https://streak-stats.demolab.com/?user=DoctorSolo&theme=midnight-purple&background=000&border=A020F0&dates=FFF" /></a>
+</div>
+<div align=center>
+	<img align=center src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DoctorSolo&layout=compact&bg_color=000&border_color=A020F0&title_color=A020F0&text_color=FFF" />
 </div>
 
 <hr>
