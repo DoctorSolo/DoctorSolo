@@ -23,8 +23,8 @@
 <br>
 
 - ### 🤖 - Some data about me ###
-  - ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DoctorSolo&theme=midnight-purple&bg_color=000&border_color=A020F0&show_icons=true&icon_color=A020F0&title_color=A020F0&text_color=FFF) ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DoctorSolo&layout=compact&bg_color=000&border_color=A020F0&title_color=A020F0&text_color=FFF)
-  - [![GitHub Streak](https://streak-stats.demolab.com/?user=DoctorSolo&theme=midnight-purple&background=000&border=A020F0&dates=FFF)](https://git.io/streak-stats)
+   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DoctorSolo&theme=midnight-purple&bg_color=000&border_color=A020F0&show_icons=true&icon_color=A020F0&title_color=A020F0&text_color=FFF) ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DoctorSolo&layout=compact&bg_color=000&border_color=A020F0&title_color=A020F0&text_color=FFF)
+   [![GitHub Streak](https://streak-stats.demolab.com/?user=DoctorSolo&theme=midnight-purple&background=000&border=A020F0&dates=FFF)](https://git.io/streak-stats)
 
 <hr>
 
