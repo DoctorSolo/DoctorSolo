@@ -1,48 +1,53 @@
-## <p align=center>🤖💬 - Hello, my name is Miguel, also known as Dr. Solo lol </p> ##
+<h1 align=center> 🤖💬 - Hello, my name is Miguel, also known as Dr. Solo lol </h1>
 <!--
 ![background](https://cdn.leonardo.ai/users/4ca3dbe5-820e-447b-aecc-ffb603540e48/generations/d2af487c-a848-457b-bea1-f48bab31117c/variations/UniversalUpscaler_d2af487c-a848-457b-bea1-f48bab31117c.jpg) 
 -->
-![back](https://cdn.discordapp.com/attachments/1204171199060648087/1204402716739375114/7_Sem_Titulo.png?ex=66ce6eb0&is=66cd1d30&hm=1f42fbf34a2392179598115abe90661ba2737822ae104c743902890e58b072e9&)
 
-<hr>
+<div align=center>
+	<img title="Git" 	src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+	<img title="Vscode" 	src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+	<img title="Eclipse"	src="https://img.shields.io/badge/Eclipse-E44C30?style=for-the-badge&logo=eclipse&logoColor=white"/>
+	<img title="Python"	src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+	<img title="C#"		src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+	<img title="Java"	src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+	<img title="MySQL"	src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+	<img title="GitHub"	src="https://img.shields.io/badge/GitHub-00000F?style=for-the-badge&logo=github&logoColor=white"/>
+	<img title="Blender"	src="https://img.shields.io/badge/Blender-E44C30?style=for-the-badge&logo=Blender&logoColor=white"/>
+</div>
+
+![back](https://media.discordapp.net/attachments/1278043424011845746/1278044347203457025/7_Sem_Titulo.png?ex=66cf5f0d&is=66ce0d8d&hm=f3498fa63687c0b9ca482e8308bbc020aa245eade95e9dfe9b6f9456e2772752&=&format=webp&quality=lossless&width=1439&height=600)
 
 - ### 🤖💬 - About me ###
   * | 💻 | I'm studying computer engineering |
     |-----|-----------------------------------|
-    | 🐍 | Python programmer |
-    | ☕ | Java programmer |
     | 👾 | Dev Indie |
     | 🤖 | Lover for bots |
-
-<br>
-
-- ### 🤖💬 - My knowledge ###
-
-  * | Level | Content |
-    |-------|---------|
-    | `Domain` | POO |
-    | `Median` | Programming Logic |
-
-<br>
-
-- ### 🤖💬 - Some data about me ###
-   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DoctorSolo&theme=midnight-purple&bg_color=000&border_color=A020F0&show_icons=true&icon_color=A020F0&title_color=A020F0&text_color=FFF) ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DoctorSolo&layout=compact&bg_color=000&border_color=A020F0&title_color=A020F0&text_color=FFF)
-   [![GitHub Streak](https://streak-stats.demolab.com/?user=DoctorSolo&theme=midnight-purple&background=000&border=A020F0&dates=FFF)](https://git.io/streak-stats)
 
 <hr>
 
 <h3 align=center>	🤖💬 - Some software I use	</h3>
 
 <div	align="center"	style = "display: inline_block">
-			<a title="Godot" target="_blank" href="https://godotengine.org">
-				<img title="Godot" alt="Godot Icon" height="40" width="40" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png" />
-			</a>
-			<a title="Game Maker" target="_blank" href="https://gamemaker.io/en">
-				<img title="Game Maker" alt="Game Maker Icon" height="40" width="40" align="center" src = "https://freefilehippo.com/wp-content/uploads/2020/11/gamemaker-studio-2-logo.png" />
-			</a>
-			<a title="Blender" target="_blank" href="https://www.blender.org">
-				<img title="Blender" alt="Blender Icon" height="40" width="40" align="center" src = "https://github.com/DoutorSolo/DoutorSolo/assets/132822901/0aacb41d-d132-4558-ad5b-ecb64a438e34" />
-			</a>
+	<a title="Godot" target="_blank" href="https://godotengine.org">
+		<img title="Godot" alt="Godot Icon" height="40" width="40" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png" />
+	</a>
+	<a title="Game Maker" target="_blank" href="https://gamemaker.io/en">
+		<img title="Game Maker" alt="Game Maker Icon" height="40" width="40" align="center" src = "https://freefilehippo.com/wp-content/uploads/2020/11/gamemaker-studio-2-logo.png" />
+	</a>
+	<a title="Blender" target="_blank" href="https://www.blender.org">
+		<img title="Blender" alt="Blender Icon" height="40" width="40" align="center" src = "https://github.com/DoutorSolo/DoutorSolo/assets/132822901/0aacb41d-d132-4558-ad5b-ecb64a438e34" />
+	</a>
+</div>
+
+<br>
+
+<div align=center>
+	<h3>🤖💬 - Some data about me</h3>
+	<img src = "https://github-readme-stats.vercel.app/api?username=DoctorSolo&theme=midnight-purple&bg_color=000&border_color=A020F0&show_icons=true&icon_color=A020F0&title_color=A020F0&text_color=FFF" />
+	<a href="https://git.io/streak-stats">
+		<img src = "https://streak-stats.demolab.com/?user=DoctorSolo&theme=midnight-purple&background=000&border=A020F0&dates=FFF" />
+	</a>
+	<img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DoctorSolo&layout=compact&bg_color=000&border_color=A020F0&title_color=A020F0&text_color=FFF" />
 </div>
 
 <hr>
