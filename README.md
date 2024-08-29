@@ -12,7 +12,8 @@
 	<img align=center title="Java"		src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
 	<img align=center title="MySQL"		src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 	<img align=center title="GitHub"	src="https://img.shields.io/badge/GitHub-00000F?style=for-the-badge&logo=github&logoColor=white"/>
-	<img align=center title="Blender"	src="https://img.shields.io/badge/Blender-E44C30?style=for-the-badge&logo=Blender&logoColor=white"/>
+	<img align=center title="Blender"	src="https://img.shields.io/badge/Blender-E44C30?style=for-the-badge&logo=blender&logoColor=white"/>
+	<img align=center title="dotNet"	src="https://img.shields.io/badge/DotNet-A020F0?style=for-the-badge&logo=dotnet&logoColor=white"/>
 </div>
 
 ![back](https://media.discordapp.net/attachments/1278043424011845746/1278044347203457025/7_Sem_Titulo.png?ex=66cf5f0d&is=66ce0d8d&hm=f3498fa63687c0b9ca482e8308bbc020aa245eade95e9dfe9b6f9456e2772752&=&format=webp&quality=lossless&width=1439&height=600)
@@ -40,7 +41,6 @@
 	</a>
 </div>
 
-<br>
 
 <div align=center>
 	<h3 align=center>🤖💬 - Some data about me</h3>
