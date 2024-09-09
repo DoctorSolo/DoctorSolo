@@ -4,19 +4,17 @@
 -->
 
 <div align=center>
-	<img align=center title="Git" 		src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-	<img align=center title="Vscode" 	src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-	<img align=center title="Eclipse"	src="https://img.shields.io/badge/Eclipse-E44C30?style=for-the-badge&logo=eclipse&logoColor=white"/>
-	<img align=center title="Python"	src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-	<img align=center title="C#"		src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-	<img align=center title="Java"		src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-	<img align=center title="MySQL"		src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-	<img align=center title="GitHub"	src="https://img.shields.io/badge/GitHub-00000F?style=for-the-badge&logo=github&logoColor=white"/>
-	<img align=center title="Blender"	src="https://img.shields.io/badge/Blender-E44C30?style=for-the-badge&logo=blender&logoColor=white"/>
-	<img align=center title="dotNet"	src="https://img.shields.io/badge/DotNet-A020F0?style=for-the-badge&logo=dotnet&logoColor=white"/>
+	<img title="Git" 	src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+	<img title="Vscode" 	src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+	<img title="Eclipse"	src="https://img.shields.io/badge/Eclipse-E44C30?style=for-the-badge&logo=eclipse&logoColor=white"/>
+	<img title="Python"	src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+	<img title="C#"		src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+	<img title="Java"	src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+	<img title="MySQL"	src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+	<img title="GitHub"	src="https://img.shields.io/badge/GitHub-00000F?style=for-the-badge&logo=github&logoColor=white"/>
+	<img title="Blender"	src="https://img.shields.io/badge/Blender-E44C30?style=for-the-badge&logo=blender&logoColor=white"/>
+	<img title="dotNet"	src="https://img.shields.io/badge/DotNet-A020F0?style=for-the-badge&logo=dotnet&logoColor=white"/>
 </div>
-
-<br>
 
 ![back](https://media.discordapp.net/attachments/1278043424011845746/1278044347203457025/7_Sem_Titulo.png?ex=66cf5f0d&is=66ce0d8d&hm=f3498fa63687c0b9ca482e8308bbc020aa245eade95e9dfe9b6f9456e2772752&=&format=webp&quality=lossless&width=1439&height=600)
 
