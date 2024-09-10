@@ -16,7 +16,7 @@
 	<img title="dotNet"	src="https://img.shields.io/badge/DotNet-A020F0?style=for-the-badge&logo=dotnet&logoColor=white"/>
 </div>
 
-![back](https://media.discordapp.net/attachments/1278043424011845746/1278044347203457025/7_Sem_Titulo.png?ex=66cf5f0d&is=66ce0d8d&hm=f3498fa63687c0b9ca482e8308bbc020aa245eade95e9dfe9b6f9456e2772752&=&format=webp&quality=lossless&width=1439&height=600)
+![back](https://cdn.discordapp.com/attachments/1281018291984269443/1283104439506436136/13_Sem_Titulo_20240910133816.jpg?ex=66e1c7a1&is=66e07621&hm=10d46e6b5d9263a27aea296c097c0e194b7f0ef093d73f6ad37acee38da27987&)
 
 <!--
 - ### 🤖💬 - About me ###
