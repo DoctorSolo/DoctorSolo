@@ -41,12 +41,11 @@
 	</a>
 </div>
 
-
 <div align=center>
 	<h3 align=center>🤖💬 - Some data about me</h3>
-	<img align=center src = "https://github-readme-stats.vercel.app/api?username=DoctorSolo&theme=midnight-purple&bg_color=000&border_color=A020F0&show_icons=true&icon_color=A020F0&title_color=A020F0&text_color=FFF" />
-	<img align=center src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DoctorSolo&layout=compact&bg_color=000&border_color=A020F0&title_color=A020F0&text_color=FFF" />
-	<a href="https://git.io/streak-stats"> <img align=center src = "https://streak-stats.demolab.com/?user=DoctorSolo&theme=midnight-purple&background=000&border=A020F0&dates=FFF"/> </a>
+	<img align=center src = "https://github-readme-stats.vercel.app/api?username=DoctorSolo&theme=shadow_red&bg_color=000&border_color=FF0000&show_icons=true&icon_color=FF0000&title_color=FF0000&text_color=FFF" />
+	<img align=center src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DoctorSolo&layout=compact&bg_color=000&border_color=FF0000&title_color=FF0000&text_color=FFF&langs_count=8" />
+	<img align=center src = "https://streak-stats.demolab.com/?user=DoctorSolo&theme=youtube_dark&background=000&border=FF0000&dates=FFF"/>
 </div>
 
 <hr>
