@@ -1,7 +1,28 @@
-<h1 align=center> 🤖💬 - Hello, my name is Miguel, also known as Dr. Solo lol </h1>
+<div align=center>
+	<h1 align=center> 🤖💬 - Hello, my name is Miguel, also known as Dr. Solo lol
+		<picture>
+		  <source height="30" width="30" media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+		  <source height="30" width="30" media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+		  <img 	  height="30" width="30" alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+		</picture>
+	</h1>
+</div>
+
+<details>
+	<summary>🤖 - About Me</summary>
+
+  * | 💻 | I'm studying computer engineering |
+    |-----|-----------------------------------|
+    | 👾 | Dev Indie |
+    | 🤖 | Lover For Bots |
+    | 🔭 | Star Lover |
+    | 🙀 | My Dreams Come True |
+</details>
+
 <!--
 ![background](https://cdn.leonardo.ai/users/4ca3dbe5-820e-447b-aecc-ffb603540e48/generations/d2af487c-a848-457b-bea1-f48bab31117c/variations/UniversalUpscaler_d2af487c-a848-457b-bea1-f48bab31117c.jpg) 
 -->
+
 
 <div align=center>
 	<img title="Git" 	src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
@@ -17,14 +38,6 @@
 </div>
 
 ![back](https://cdn.discordapp.com/attachments/1281018291984269443/1283153932264276010/13_Sem_Titulo_20240910163114.jpg?ex=66e1f5b9&is=66e0a439&hm=568f0a08430b64ef900d2b9371ceee93178dd94660565eb4b977d0f7b2649adf&)
-
-<!--
-- ### 🤖💬 - About me ###
-  * | 💻 | I'm studying computer engineering |
-    |-----|-----------------------------------|
-    | 👾 | Dev Indie |
-    | 🤖 | Lover for bots |
--->
 
 <hr>
 
