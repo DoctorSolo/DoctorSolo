@@ -16,7 +16,6 @@
     | 👾 | Dev Indie |
     | 🤖 | Lover For Bots |
     | 🔭 | Star Lover |
-    | 🙀 | My Dreams Come True |
     
    ## ROBOOOOOOOOOOOOT
   * ![CAAAAAAAAAT](https://media1.tenor.com/m/wnh85fvO2GoAAAAC/cat-vacuum.gif)
