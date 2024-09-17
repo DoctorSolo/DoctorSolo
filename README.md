@@ -1,5 +1,5 @@
 <div align=center>
-	<h1 align=center> 🤖💬 - Hello, my name is Miguel, also known as Dr. Solo lol
+	<h1 align=center> 🤖 - Hello, my name is Miguel, also known as Dr. Solo lol
 		<picture>
 		  <source height="30" width="30" media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
 		  <source height="30" width="30" media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
@@ -18,7 +18,7 @@
     | 🔭 | Star Lover |
     
    ## ROBOOOOOOOOOOOOT
-  * ![CAAAAAAAAAT](https://media1.tenor.com/m/wnh85fvO2GoAAAAC/cat-vacuum.gif)
+![CAAAAAAAAAT](https://media1.tenor.com/m/wnh85fvO2GoAAAAC/cat-vacuum.gif)
 
 </details>
 
@@ -45,7 +45,7 @@
 <hr>
 
 <div	align=center>
-	<h3 align=center>🤖💬 - Some software I use</h3>
+	<h3 align=center>🤖 - Some software I use</h3>
 	<a title="Godot" target="_blank" href="https://godotengine.org">
 		<img align=center title="Godot" alt="Godot Icon" height="40" width="40" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png" />
 	</a>
@@ -58,7 +58,7 @@
 </div>
 
 <div align=center>
-	<h3 align=center>🤖💬 - Some data about me</h3>
+	<h3 align=center>🤖 - Some data about me</h3>
 	<img align=center src = "https://github-readme-stats.vercel.app/api?username=DoctorSolo&theme=shadow_red&bg_color=000&border_color=FF0000&show_icons=true&icon_color=FF0000&title_color=FF0000&text_color=FFF" />
 	<img align=center src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DoctorSolo&layout=compact&bg_color=000&border_color=FF0000&title_color=FF0000&text_color=FFF&langs_count=8" />
 	<img align=center src = "https://streak-stats.demolab.com/?user=DoctorSolo&theme=youtube_dark&background=000&border=FF0000&dates=FFF"/>
@@ -66,7 +66,7 @@
 
 <hr>
 
-- #### 🤖💬 - Follow me too ####
+- #### 🤖 - Follow me too ####
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/who_miguel_/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-e-a46b13279/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/534808726570270731/)
