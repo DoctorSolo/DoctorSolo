@@ -40,7 +40,7 @@
 	<img title="dotNet"	src="https://img.shields.io/badge/DotNet-A020F0?style=for-the-badge&logo=dotnet&logoColor=white"/>
 </div>
 
-![back](https://media.discordapp.net/attachments/1281018291984269443/1283153932264276010/13_Sem_Titulo_20240910163114.jpg?ex=66ea8779&is=66e935f9&hm=3894bebe57e01afd11c621c58a520fae30e5c6a713d11d25ac2019c40f5c8d5a&=&format=webp&width=1439&height=600)
+![back](https://media.discordapp.net/attachments/1281018291984269443/1283153932264276010/13_Sem_Titulo_20240910163114.jpg?ex=66ff9f79&is=66fe4df9&hm=f4265892e298458c1f32cf9d06ee43102ce5d26dcb7697f88d36ce9a1f69e3d9&=&format=webp&width=1439&height=600)
 
 <hr>
 
