@@ -1,4 +1,5 @@
 <div align=center>
+	<img align="center" height="100" width="100" src="https://as2.ftcdn.net/v2/jpg/04/34/33/51/1000_F_434335169_qgu1ZO2GKk13QJlzfJxoAItze5bo1ych.jpg"/>
 	<h1 align=center> 🤖 - Hello, my name is Miguel, also known as Dr. Solo lol
 		<picture>
 		  <source height="30" width="30" media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
