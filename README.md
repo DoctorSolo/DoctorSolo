@@ -60,8 +60,8 @@
 
 <div style="text-align: center;" align="center">
 	<h4>🤖 - Some data about me</h4>
-	<img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DoctorSolo&line_height=25&card_width=290&layout=compact&hide_title=true&count_private=true&bg_color=000&border_color=FF0000&title_color=FF0000&text_color=FFF&langs_count=8&show_icons=true" />
-	<img src = "https://github-readme-stats.vercel.app/api?username=DoctorSolo&theme=shadow_red&bg_color=000&border_color=FF0000&show_icons=true&icon_color=FF0000&title_color=FF0000&text_color=FFF&hide_title=true&include_all_commits=false&count_private=true&line_height=24" />
+	<img align=center src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DoctorSolo&line_height=25&card_width=290&layout=compact&hide_title=true&count_private=true&bg_color=000&border_color=FF0000&title_color=FF0000&text_color=FFF&langs_count=8&show_icons=true" />
+	<img align=center src = "https://github-readme-stats.vercel.app/api?username=DoctorSolo&theme=shadow_red&bg_color=000&border_color=FF0000&show_icons=true&icon_color=FF0000&title_color=FF0000&text_color=FFF&hide_title=true&include_all_commits=false&count_private=true&line_height=24" />
 </div>
 
 #
@@ -85,19 +85,19 @@
 
 #
 
-- #### 🤖 - Follow me too ####
-<div align=left>
+- ##### 🤖 - Follow me too #####
+  * <div align=left>
 	<a href="https://www.instagram.com/who_miguel_/">
-		<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25"/>
+		<img align=center src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="23"/>
 	</a>
 	<a href="https://www.linkedin.com/in/miguel-e-a46b13279/">
-		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 	height="25"/>
+		<img align=center src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 	height="23"/>
 	</a>
 	<a href="https://discord.com/users/534808726570270731/">
-		<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"		height="25"/>
+		<img align=center src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"	height="23"/>
 	</a>
 	<a href="https://doctor-solo.itch.io/">
-		<img src="https://img.shields.io/badge/-Itch.io-000?style=for-the-badge&logo=itch.io&logoColor=%23E4405F" 	height="25"/>
+		<img align=center src="https://img.shields.io/badge/-Itch.io-000?style=for-the-badge&logo=itch.io&logoColor=%23E4405F" 	height="25"/>
 	</a>
 </div>
 
