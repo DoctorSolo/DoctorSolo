@@ -36,7 +36,7 @@
 -->
 
 <div align=center>
-	<img align=center src="https://github.com/DoctorSolo/DoctorSolo/blob/main/.github/Background0.jpg" />
+	<img align=center src=".github/Background0.jpg" />
 </div>
 
 #
