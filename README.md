@@ -106,9 +106,12 @@
 
 <div align=center>
 	<h2 align=center>
-		ROBOOOOOOOOOOOOT
-		<img align=center src="https://media1.tenor.com/m/wnh85fvO2GoAAAAC/cat-vacuum.gif"/>
-		<img align=center src="https://i.gifer.com/ho.gif" />
+		<p align=center>ROBOOOOOOOOOOOOT</p>
+		<img align=right src="https://tenor.com/pt-BR/view/boston-dynamics-robot-dog-dancing-robot-dog-robot-dog-gif-11784828160704918072.gif" />
+		<img align=right src="https://tenor.com/pt-BR/view/music-sick-power-rangers-robot-bot-gif-1213357273390678191.gif" />
+		<img align=right src="https://tenor.com/pt-BR/view/mecha-robot-lego-animation-scifi-gif-1879815320824649251.gif" />
+		<img align=right src="https://media1.tenor.com/m/wnh85fvO2GoAAAAC/cat-vacuum.gif"/>
+		<img align=right src="https://i.gifer.com/ho.gif" />
 	</h2>
 </div>
 
