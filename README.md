@@ -32,8 +32,6 @@
 ![CAAAAAAAAAT](https://media1.tenor.com/m/wnh85fvO2GoAAAAC/cat-vacuum.gif)
 
 </details>
-
-![background](https://cdn.leonardo.ai/users/4ca3dbe5-820e-447b-aecc-ffb603540e48/generations/d2af487c-a848-457b-bea1-f48bab31117c/variations/UniversalUpscaler_d2af487c-a848-457b-bea1-f48bab31117c.jpg) 
 -->
 
 <div align=center>
@@ -63,8 +61,10 @@
 	<h4>🤖 - Some data about me</h4>
 	<img align=center src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DoctorSolo&line_height=25&card_width=290&layout=compact&hide_title=true&count_private=true&bg_color=000&border_color=FF0000&title_color=FF0000&text_color=FFF&langs_count=8&show_icons=true" />
 	<img align=center src = "https://github-readme-stats.vercel.app/api?username=DoctorSolo&theme=shadow_red&bg_color=000&border_color=FF0000&show_icons=true&icon_color=FF0000&title_color=FF0000&text_color=FFF&hide_title=true&include_all_commits=false&count_private=true&line_height=24" />
+	<!--
 	<hr>
 	<img align=center src="https://github-profile-trophy.vercel.app?username=DoctorSolo&theme=dark_lover&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="80" alt="trophy graph"  />
+	-->
 </div>
 
 #
