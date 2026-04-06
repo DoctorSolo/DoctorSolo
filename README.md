@@ -14,7 +14,7 @@
 <p align=center>I'm a computer engineering student at UEMG and I know how to develop a little bit of everything. I also develop indie games and I love technology. I'm also an astronomy lover even though I don't understand much lol.</p>
 
 #
-
+<!--
 <details>
 	<summary>🤖 - About Me</summary>
 
@@ -22,12 +22,11 @@
     |-----|-----------------------------------|
     | 👾 | Dev Indie |
     | 🤖 | Lover For Bots |
-    | 🔭 | Star Lover |
-<!--    
+    | 🔭 | Star Lover |   
 ## ROBOOOOOOOOOOOOT
 ![CAAAAAAAAAT](https://media1.tenor.com/m/wnh85fvO2GoAAAAC/cat-vacuum.gif)
--->
 </details>
+-->
 
 <div align=center>
 	<img align=center src=".github/Background0.jpg" />
@@ -37,8 +36,8 @@
 
 <div style="text-align: center;" align="center">
 	<h4>🤖 - Some data about me</h4>
-	<img align=center src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DoctorSolo&line_height=25&card_width=290&layout=compact&hide_title=true&count_private=true&bg_color=000&border_color=FF0000&title_color=FF0000&text_color=FFF&langs_count=8&show_icons=true" />
-	<img align=center src = "https://github-readme-stats.vercel.app/api?username=DoctorSolo&theme=shadow_red&bg_color=000&border_color=FF0000&show_icons=true&icon_color=FF0000&title_color=FF0000&text_color=FFF&hide_title=true&include_all_commits=false&count_private=true&line_height=24" />
+	<img align=center src = "profile-summary-card-output/2077/0-profile-details.svg" />
+	<img align=center src = "profile-summary-card-output/2077/1-repos-per-language.svg" />
 </div>
 
 #
@@ -56,7 +55,7 @@
 	<img align=center title="GitHub"		src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"				height="25"/>
 	<img align=center title="Blender"		src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg"			height="25"/>
 	<img align=center title="Godot"	       	src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg"				height="25"/>
-	<img align=center title="VisualStudio" 	src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg"	height="25"/>
+	<img align=center title="Linux" 		src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"				height="25"/>
 </div>
 
 #
