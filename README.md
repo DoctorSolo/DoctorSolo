@@ -1,8 +1,5 @@
 
 <div align=center>
-	<!--
-	<img align="center" height="100" width="100" src="https://as2.ftcdn.net/v2/jpg/04/34/33/51/1000_F_434335169_qgu1ZO2GKk13QJlzfJxoAItze5bo1ych.jpg"/>
-	-->
 	<h3 align=center> 🤖 - Hello, my name is Miguel, also known as Dr. Solo lol
 		<picture>
 		  <source height="25" width="25" media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
@@ -18,7 +15,6 @@
 
 #
 
-<!--
 <details>
 	<summary>🤖 - About Me</summary>
 
@@ -27,12 +23,11 @@
     | 👾 | Dev Indie |
     | 🤖 | Lover For Bots |
     | 🔭 | Star Lover |
-    
-   ## ROBOOOOOOOOOOOOT
+<!--    
+## ROBOOOOOOOOOOOOT
 ![CAAAAAAAAAT](https://media1.tenor.com/m/wnh85fvO2GoAAAAC/cat-vacuum.gif)
-
-</details>
 -->
+</details>
 
 <div align=center>
 	<img align=center src=".github/Background0.jpg" />
@@ -40,49 +35,27 @@
 
 #
 
-<!--
-<div	align=center>
-	<h4 align=center>🤖 - Some software I use</h4>
-	<a title="Godot" target="_blank" href="https://godotengine.org">
-		<img align=center title="Godot" alt="Godot Icon" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
-	</a>
-	<a title="Game Maker" target="_blank" href="https://gamemaker.io/en">
-		<img align=center title="Game Maker" alt="Game Maker Icon" height="40" width="40" align="center" src = "https://freefilehippo.com/wp-content/uploads/2020/11/gamemaker-studio-2-logo.png" />
-	</a>
-	<a title="Blender" target="_blank" href="https://www.blender.org">
-		<img align=center title="Blender" alt="Blender Icon" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
-	</a>
-</div>
-
-#
--->
-
 <div style="text-align: center;" align="center">
 	<h4>🤖 - Some data about me</h4>
 	<img align=center src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DoctorSolo&line_height=25&card_width=290&layout=compact&hide_title=true&count_private=true&bg_color=000&border_color=FF0000&title_color=FF0000&text_color=FFF&langs_count=8&show_icons=true" />
 	<img align=center src = "https://github-readme-stats.vercel.app/api?username=DoctorSolo&theme=shadow_red&bg_color=000&border_color=FF0000&show_icons=true&icon_color=FF0000&title_color=FF0000&text_color=FFF&hide_title=true&include_all_commits=false&count_private=true&line_height=24" />
-	<!--
-	<hr>
-	<img align=center src="https://github-profile-trophy.vercel.app?username=DoctorSolo&theme=dark_lover&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="80" alt="trophy graph"  />
-	-->
 </div>
 
 #
 
-
 <h4 align=center>🤖 - Some software I use</h4>
 
 <div align=center>
-	<img align=center title="Git" 		src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"			height="25"/>
-	<img align=center title="Vscode" 	src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"		height="25"/>
-	<img align=center title="Eclipse"	src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg"		height="25"/>
-	<img align=center title="Python"	src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"		height="25"/>
-	<img align=center title="C#"		src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"		height="25"/>
-	<img align=center title="Java"		src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"			height="25"/>
-	<img align=center title="MySQL"		src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"		height="25"/>
-	<img align=center title="GitHub"	src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"		height="25"/>
-	<img align=center title="Blender"	src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg"		height="25"/>
-	<img align=center title="Godot"	       	src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg"		height="25"/>
+	<img align=center title="Git" 			src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"					height="25"/>
+	<img align=center title="Vscode" 		src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"				height="25"/>
+	<img align=center title="Eclipse"		src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg"			height="25"/>
+	<img align=center title="Python"		src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"				height="25"/>
+	<img align=center title="C#"			src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"				height="25"/>
+	<img align=center title="Java"			src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"					height="25"/>
+	<img align=center title="MySQL"			src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"				height="25"/>
+	<img align=center title="GitHub"		src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"				height="25"/>
+	<img align=center title="Blender"		src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg"			height="25"/>
+	<img align=center title="Godot"	       	src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg"				height="25"/>
 	<img align=center title="VisualStudio" 	src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg"	height="25"/>
 </div>
 
