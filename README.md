@@ -36,8 +36,8 @@
 
 <div style="text-align: center;" align="center">
 	<h4>🤖 - Some data about me</h4>
-	<img align=center src = "profile-summary-card-output/2077/0-profile-details.svg" 	height="190"/>
-	<img align=center src = "profile-summary-card-output/2077/1-repos-per-language.svg" height="190"/>
+	<img align=center src = "profile-summary-card-output/2077/0-profile-details.svg" 	height="150"/>
+	<img align=center src = "profile-summary-card-output/2077/1-repos-per-language.svg" height="150"/>
 </div>
 
 #
