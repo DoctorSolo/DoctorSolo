@@ -19,6 +19,6 @@ jobs:
       - uses: actions/checkout@v3 # Atualizado para v3
       - uses: DoctorSolo/github-profile-summary-cards@main
         env:
-          GITHUB_TOKEN: ${{ secrets.summary_card_token }}
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_CARD_TOKEN }}
         with:
           USERNAME: DoctorSolo
