@@ -1,24 +1,19 @@
 name: GitHub-Profile-Summary-Cards
 
 on:
-  schedule: # executa a cada 24 horas
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
+  workflow_dispatch:  # permite execução manual
+  schedule:
+    - cron: "0 0 * * *"  # opcional: executa diariamente
 
 jobs:
-  build: # Indentado com 2 espaços
+  build:
     runs-on: ubuntu-latest
-    name: generate-github-cards
     permissions:
       contents: write
-
     steps:
-      - uses: actions/checkout@v3 # Atualizado para v3
-      - uses: DoctorSolo/github-profile-summary-cards@main
+      - uses: actions/checkout@v4
+      - uses: DoctorSolo/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          USERNAME: DoctorSolo
+          USERNAME: ${{ github.repository_owner }}
