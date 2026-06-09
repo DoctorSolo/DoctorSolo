@@ -37,7 +37,7 @@
 <div style="text-align: center;" align="center">
 	<h4>🤖 - Some data about me</h4>
 	<img align=center src = "profile-summary-card-output/holi/0-profile-details.svg" 		height="150"/>
-	<img align=center src = "profile-summary-card-output/holi/2-most-commit-language.svg"	height="150"/>
+	<img align=center src = "profile-summary-card-output/holi/1-repos-per-language.svg"		height="150"/>
 </div>
 
 #
