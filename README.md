@@ -74,7 +74,7 @@
 	<a href="https://discord.com/users/534808726570270731/">
 		<img align=center src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"	height="23"/>
 	</a>
-	<a href="https://doctor-solo.itch.io/">
+	<a href="https://dr-solo.itch.io/">
 		<img align=center src="https://img.shields.io/badge/-Itch.io-000?style=for-the-badge&logo=itch.io&logoColor=%23E4405F" 	height="25"/>
 	</a>
 </div>
