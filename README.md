@@ -62,6 +62,9 @@
 
 - ##### 🤖 - Follow me too #####
   * <div align=left>
+	<a href="https://x.com/DrSolo303">
+		<img align=center src="https://img.shields.io/badge/-twitter-000?style=for-the-badge&logo=x&logoColor=white" height="25"/>
+	</a>
 	<a href="https://www.instagram.com/doctor_solo_303/">
 		<img align=center src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="23"/>
 	</a>
