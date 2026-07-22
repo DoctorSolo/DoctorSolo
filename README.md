@@ -56,13 +56,14 @@
 		🤖 - Some software I use
 	</h3>
 	<img align=center title="Git" 			src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"					height="25"/>
+	<img align=center title="GitHub"		src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"				height="25"/>
 	<img align=center title="Vscode" 		src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"				height="25"/>
 	<img align=center title="Eclipse"		src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg"			height="25"/>
 	<img align=center title="Python"		src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"				height="25"/>
 	<img align=center title="C#"			src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"				height="25"/>
+	<img align=center title="NodeJS"		src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"				height="25"/>
 	<img align=center title="Java"			src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"					height="25"/>
 	<img align=center title="MySQL"			src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"				height="25"/>
-	<img align=center title="GitHub"		src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"				height="25"/>
 	<img align=center title="Blender"		src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg"			height="25"/>
 	<img align=center title="Godot"	       	src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg"				height="25"/>
 	<img align=center title="Linux" 		src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"				height="25"/>
