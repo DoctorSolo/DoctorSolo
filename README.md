@@ -55,18 +55,37 @@
 	<h3 align=center>
 		🤖 - Some software I use
 	</h3>
-	<img align=center title="Git" 			src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"					height="25"/>
-	<img align=center title="GitHub"		src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"				height="25"/>
-	<img align=center title="Vscode" 		src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"				height="25"/>
-	<img align=center title="Eclipse"		src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg"			height="25"/>
-	<img align=center title="Python"		src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"				height="25"/>
-	<img align=center title="C#"			src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"				height="25"/>
-	<img align=center title="NodeJS"		src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"				height="25"/>
-	<img align=center title="Java"			src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"					height="25"/>
-	<img align=center title="MySQL"			src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"				height="25"/>
-	<img align=center title="Blender"		src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg"			height="25"/>
-	<img align=center title="Godot"	       	src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg"				height="25"/>
-	<img align=center title="Linux" 		src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"				height="25"/>
+	<!-- TOOLS -->
+	<img align=center height="50" title="Git" 			src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+	<img align=center height="50" title="GitHub"		src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
+	<img align=center height="50" title="Vscode" 		src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
+	<!-- LANGUAGE -->
+	<img align=center height="50" title="Python"		src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+	<img align=center height="50" title="C#"			src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
+	<img align=center height="50" title="Java"			src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+	<img align=center height="50" title="C"				src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
+	<img align=center height="50" title="C++"			src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
+	<img align=center height="50" title="JavaScript"	src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+	<img align=center height="50" title="TypeScript"	src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
+	<!-- FRAMEWORK -->
+	<img align=center height="50" title="Dotnet"		src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"/>
+	<img align=center height="50" title="react"			src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+	<img align=center height="50" title="Tailwindcss"	src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
+	<img align=center height="50" title="NodeJS"		src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
+	<!-- DATA BASE -->
+	<img align=center height="50" title="Postgresql"	src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
+	<img align=center height="50" title="MySQL"			src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+	<img align=center height="50" title="AzureSQL"		src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
+	<img align=center height="50" title="Docker"		src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
+	<!-- CLOUD -->
+	<img align=center height="50" title="AWS"			src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+	<img align=center height="50" title="Azure"			src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"/>
+	<!-- OTHERS -->
+	<img align=center height="50" title="Blender"		src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg"/>
+	<img align=center height="50" title="Godot"	       	src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg"/>
+	<img align=center height="50" title="Linux" 		src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
+	<img align=center height="50" title="Debian" 		src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg"/>
+	<img align=center height="50" title="Arch" 			src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg"/>
 </div>
 
 
