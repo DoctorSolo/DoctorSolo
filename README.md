@@ -39,6 +39,7 @@
 	<h3>
 		🤖 - Some data about me
 	</h3>
+	<hr>
 	<img align=center src = "profile-summary-card-output/holi/0-profile-details.svg" 		height="150"/>
 	<img align=center src = "profile-summary-card-output/holi/1-repos-per-language.svg"		height="150"/>
 </div>
@@ -55,6 +56,7 @@
 	<h3 align=center>
 		🤖 - Some software I use
 	</h3>
+	<hr>
 	<!-- TOOLS -->
 	<img align=center height="50" title="Git" 			src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 	<img align=center height="50" title="GitHub"		src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
@@ -71,6 +73,7 @@
 	<img align=center height="50" title="C"				src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
 	<img align=center height="50" title="C++"			src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
 	<img align=center height="50" title="Rust"			src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg"/>
+	<img align=center height="50" title="Arduino"		src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg"/>
 	<img align=center height="50" title="JavaScript"	src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
 	<img align=center height="50" title="TypeScript"	src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
 	<!-- DATA BASE -->
@@ -102,6 +105,7 @@
 	<h3 align=center>
 		🤖 - Follow me too
 	</h3>
+	<hr>
 	<a href="https://x.com/DrSolo303">
 		<img height="34" width="100" align=center src="https://img.shields.io/badge/-twitter-000?style=for-the-badge&logo=x&logoColor=white"/>
 	</a>
@@ -131,15 +135,18 @@
 		<p align=center>
 			🐾🐾 CaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaAT 🐾🐾
 		</p>
-		<img src="https://media1.tenor.com/m/Aig6cEyDGycAAAAd/cat.gif" />
-		<img src="https://media1.tenor.com/m/5khKR5yonRcAAAAd/cat.gif" />
-		<img src="https://media1.tenor.com/m/OPG42VTMUrYAAAAC/water-cat.gif" />
-		<img src="https://media1.tenor.com/m/CpxGZfS5yykAAAAC/alice-in-wonderland-cat.gif" />
-		<img src="https://tenor.com/pt-BR/view/boston-dynamics-robot-dog-dancing-robot-dog-robot-dog-gif-11784828160704918072.gif" />
-		<img src="https://tenor.com/pt-BR/view/music-sick-power-rangers-robot-bot-gif-1213357273390678191.gif" />
-		<img src="https://tenor.com/pt-BR/view/mecha-robot-lego-animation-scifi-gif-1879815320824649251.gif" />
-		<img src="https://media1.tenor.com/m/wnh85fvO2GoAAAAC/cat-vacuum.gif"/>
-		<img src="https://i.gifer.com/ho.gif" />
+		<img height="350" width="350" src="https://media1.tenor.com/m/Aig6cEyDGycAAAAd/cat.gif" />
+		<img height="350" width="350" src="https://media1.tenor.com/m/5khKR5yonRcAAAAd/cat.gif" />
+		<img height="350" width="350" src="https://media1.tenor.com/m/OPG42VTMUrYAAAAC/water-cat.gif" />
+		<img height="350" width="350" src="https://media.tenor.com/BCQJFkjyNYwAAAAi/%D1%85%D0%B0%D0%BF%D0%BF%D0%B8-happy-cat.gif" />
+		<img height="350" width="350" src="https://media1.tenor.com/m/Rzo7BOywIeEAAAAC/cat-disappointed-disappointed.gif" />
+		<img height="350" width="350" src="https://media1.tenor.com/m/LjwBOfvg4r4AAAAd/scuba-scuba-cat.gif" />
+		<img height="350" width="350" src="https://media1.tenor.com/m/HEyVmj42ndQAAAAC/cat-cat-fight.gif" />
+		<img height="350" width="350" src="https://media1.tenor.com/m/CpxGZfS5yykAAAAC/alice-in-wonderland-cat.gif" />
+		<img height="350" width="350" src="https://tenor.com/pt-BR/view/music-sick-power-rangers-robot-bot-gif-1213357273390678191.gif" />
+		<img height="350" width="350" src="https://tenor.com/pt-BR/view/mecha-robot-lego-animation-scifi-gif-1879815320824649251.gif" />
+		<img height="350" width="350" src="https://media1.tenor.com/m/wnh85fvO2GoAAAAC/cat-vacuum.gif"/>
+		<img height="350" width="350" src="https://i.gifer.com/ho.gif" />
 	</h2>
 </div>
 </details>
