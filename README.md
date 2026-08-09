@@ -65,6 +65,7 @@
 	<img align=center height="50" title="Java"			src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
 	<img align=center height="50" title="C"				src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
 	<img align=center height="50" title="C++"			src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
+	<img align=center height="50" title="Rust"			src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg"/>
 	<img align=center height="50" title="JavaScript"	src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
 	<img align=center height="50" title="TypeScript"	src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
 	<!-- FRAMEWORK -->
