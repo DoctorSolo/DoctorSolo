@@ -59,6 +59,11 @@
 	<img align=center height="50" title="Git" 			src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 	<img align=center height="50" title="GitHub"		src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
 	<img align=center height="50" title="Vscode" 		src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
+	<!-- FRAMEWORK -->
+	<img align=center height="50" title="Dotnet"		src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"/>
+	<img align=center height="50" title="react"			src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+	<img align=center height="50" title="Tailwindcss"	src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
+	<img align=center height="50" title="NodeJS"		src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
 	<!-- LANGUAGE -->
 	<img align=center height="50" title="Python"		src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 	<img align=center height="50" title="C#"			src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
@@ -68,15 +73,11 @@
 	<img align=center height="50" title="Rust"			src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg"/>
 	<img align=center height="50" title="JavaScript"	src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
 	<img align=center height="50" title="TypeScript"	src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
-	<!-- FRAMEWORK -->
-	<img align=center height="50" title="Dotnet"		src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"/>
-	<img align=center height="50" title="react"			src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-	<img align=center height="50" title="Tailwindcss"	src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
-	<img align=center height="50" title="NodeJS"		src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
 	<!-- DATA BASE -->
 	<img align=center height="50" title="Postgresql"	src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
 	<img align=center height="50" title="MySQL"			src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
 	<img align=center height="50" title="AzureSQL"		src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
+	<img align=center height="50" title="MariaDB"		src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg"/>
 	<img align=center height="50" title="Docker"		src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
 	<!-- CLOUD -->
 	<img align=center height="50" title="AWS"			src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
