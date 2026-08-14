@@ -11,18 +11,45 @@
 	</h1>
 </div>
 
-<p align=center>
-	<!----------------------------------------------------------------------------------------------------------------------------------
-	------------------------------------------------------  DESCRIPTION  ---------------------------------------------------------------
-	------------------------------------------------------------------------------------------------------------------------------------>
-	I'm a computer engineering student at UEMG and I know how to develop a little bit of everything. I also develop indie games and I love technology. I'm also an astronomy lover even though I don't understand much lol.
-</p>
-
 <div align=center>
 	<!----------------------------------------------------------------------------------------------------------------------------------
 	------------------------------------------------------  BACKGROUND  ----------------------------------------------------------------
 	------------------------------------------------------------------------------------------------------------------------------------>
 	<img align=center src=".github/Background0.jpg" />
+</div>
+
+<br>
+
+<div align="center">
+	<!----------------------------------------------------------------------------------------------------------------------------------
+	------------------------------------------------------  DESCRIPTION  ---------------------------------------------------------------
+	------------------------------------------------------------------------------------------------------------------------------------>
+	<h2>
+		Hello, traveler! Who I'm you ask?
+	</h2>
+	<p>
+		Well, I'm Miguel—a Computer Engineer and Full Stack Developer! Can you believe that? And I'm passionate about building scalable web applications, robust APIs, and modern user interfaces.
+	</p>
+    <p>
+		With a solid background in Computer Engineering, I combine low-level problem-solving with high-level software development. My technical skill set includes:
+	</p>
+	<p>
+    • Backend: C# / ASP.NET Core, Python
+    • Frontend: JavaScript / TypeScript, React.js, HTML5, CSS3/Tailwind
+    • Environment & Tools: Linux/Bash, Git/GitHub, RESTful APIs
+	</p>
+	<p>
+    I thrive in dynamic environments, constantly seeking to learn new technologies and write clean, maintainable code. Whether architecting backend services or creating intuitive frontend experiences, I am always motivated to tackle complex challenges.
+	</p>
+	<p>
+    Let's connect! I am open to opportunities in Full Stack software engineering. Be sure to check out my
+		<a target="_blank" href="https://miguel-eduardo.vercel.app/">
+			<h2>
+			portfolio!
+			</h2>
+		</a>
+	</p>
+
 </div>
 
 <!---------------------------------------------------------------------------------------------------------------------------------->
