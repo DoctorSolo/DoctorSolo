@@ -43,12 +43,12 @@
 	</p>
 	<p>
     Let's connect! I am open to opportunities in Full Stack software engineering. Be sure to check out my
-		<a target="_blank" href="https://miguel-eduardo.vercel.app/">
-			<h2>
-			portfolio!
-			</h2>
-		</a>
 	</p>
+	<h2>
+	<a target="_blank" href="https://miguel-eduardo.vercel.app/">
+		portfolio!
+	</a>
+	</h2>
 
 </div>
 
