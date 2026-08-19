@@ -1,9 +1,9 @@
 name: GitHub-Profile-Summary-Cards
 
 on:
-  workflow_dispatch:  # permite execução manual
+  workflow_dispatch: # permite execução manual
   schedule:
-    - cron: "0 0 * * *"  # opcional: executa diariamente
+    - cron: "0 0 * * *" # opcional: executa diariamente
 
 jobs:
   build:
@@ -17,3 +17,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
+          THEME_NAME: holi

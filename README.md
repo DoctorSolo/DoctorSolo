@@ -144,6 +144,11 @@
 
 <!---------------------------------------------------------------------------------------------------------------------------------->
 
+<!-- Adicione divisórias mais elegantes -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Computer+Engineer;Problem+Solver" alt="Typing SVG" />
+</div>
+
 <br><br>
 
 <details>
