@@ -17,4 +17,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-          THEME_NAME: holi
+          THEME: holi
