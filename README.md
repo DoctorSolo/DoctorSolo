@@ -128,8 +128,8 @@
 		🤖 - Follow me too
 	</h3>
 	<hr>
-	<a href="https://x.com/DrSolo303">
-		<img height="34" width="100" align=center src="https://img.shields.io/badge/-twitter-000?style=for-the-badge&logo=x&logoColor=white"/>
+	<a href="https://bsky.app/profile/doctorsolo.bsky.social">
+		<img height="34" width="120" align=center src="https://img.shields.io/badge/-BludeSky-000?style=for-the-badge&logo=BlueSky&logoColor=blue"/>
 	</a>
 	<a href="https://www.linkedin.com/in/migueledu303/">
 		<img height="30" width="100" align=center src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
