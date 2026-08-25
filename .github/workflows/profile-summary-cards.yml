@@ -28,14 +28,3 @@ jobs:
         with:
           client-id: ${{ secrets.CLIENT_ID }}
           private-key: ${{ secrets.APP_PRIVATE_KEY }}
-
-      - name: Commit and Push
-        run: |
-          git config user.name "NexusHub-Bot[bot]"
-          git config user.email "320790022+NexusHub-Bot[bot]@users.noreply.github.com"
-          
-          git remote set-url origin https://x-access-token:${{ steps.generate_token.outputs.token }}@github.com/${{ github.repository }}.git
-
-          git add profile-summary-card-output/
-          git diff --quiet && git diff --staged --quiet || git commit -m "chore: update GitHub stats [skip ci]"
-          git push
